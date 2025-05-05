@@ -13,7 +13,7 @@ include "layout/header.php"
                           <i class="icon nalika-home"></i>
                         </div>
                         <div class="breadcomb-ctn">
-                          <h2>Dashboard Two</h2>
+                          <h2>Dashboard</h2>
                           <p>
                             Welcome to Nalika
                             <span class="bread-ntd">Admin Template</span>
