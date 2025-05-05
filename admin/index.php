@@ -1,6 +1,7 @@
 <?php
 include "layout/header.php"
 ?>
+      <main>
         <div class="breadcome-area">
           <div class="container-fluid">
             <div class="row">
@@ -587,6 +588,7 @@ include "layout/header.php"
           </div>
         </div>
       </div>
+  </main>
 
 <?php
 include "layout/footer.php"

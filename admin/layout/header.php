@@ -83,7 +83,7 @@
         <!-- Sidebar Profile Start -->
         <nav id="sidebar" class="">
             <div class="sidebar-header">
-                <a href="index.html"
+                <a href="index.php"
                 ><img class="main-logo" src="img/logo/logo.png" alt=""
                 /></a>
                 <strong><img src="img/logo/logosn.png" alt="" /></strong>
